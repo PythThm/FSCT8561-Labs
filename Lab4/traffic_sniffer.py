@@ -23,7 +23,7 @@ with PcapReader("botnet-capture-20110812-rbot.pcap") as packet:
 
             # Print the first 20 IPv4 TCP/UDP packets
             if (TCP in pkt or UDP in pkt) and shown < 20:
-                if TCP in pkt:git log --oneline origin/main..HEAD
+                if TCP in pkt:
                     protocol = "TCP"
                     source_port = pkt[TCP].sport
                     destination_port = pkt[TCP].dport
