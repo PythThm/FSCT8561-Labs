@@ -1,0 +1,7 @@
+﻿filename,format,metadata_fields,suspected_field,encoding,risk_score,reason
+Activation.png,PNG,"EXIF:GPSInfo, EXIF:ResolutionUnit, EXIF:ExifOffset, EXIF:Make, EXIF:Model, EXIF:Software, EXIF:DateTime, EXIF:YCbCrPositioning, EXIF:XResolution, EXIF:YResolution, PNG:srgb, PNG:gamma, PNG:dpi, PNG:exif, PNG:Make, PNG:Model, PNG:Software, PNG:create-date",PNG:exif,None identified,10,+10: Labelled message found in metadata
+Brain-Channel.png,PNG,"EXIF:ResolutionUnit, EXIF:ImageDescription, EXIF:YCbCrPositioning, EXIF:XResolution, EXIF:YResolution, PNG:srgb, PNG:gamma, PNG:dpi, PNG:exif","EXIF:ImageDescription, PNG:exif",None identified,10,+10: Labelled message found in metadata
+Brain.png,PNG,"PNG:srgb, PNG:gamma, PNG:dpi, PNG:Software",PNG:Software,None identified,10,+10: Labelled message found in metadata
+Chemicals.png,PNG,PNG:ImageDescription,PNG:ImageDescription,None identified,10,+10: Labelled message found in metadata
+Dopamine.png,PNG,"PNG:srgb, PNG:gamma, PNG:dpi, XMP:xmp, XMP:XML:com.adobe.xmp","XMP:xmp, XMP:XML:com.adobe.xmp",None identified,10,+10: Labelled message found in metadata
+Music.png,PNG,"EXIF:ResolutionUnit, EXIF:ExifOffset, EXIF:Make, EXIF:Model, EXIF:DateTime, EXIF:YCbCrPositioning, EXIF:Copyright, EXIF:XResolution, EXIF:YResolution, PNG:srgb, PNG:gamma, PNG:dpi, PNG:Copyright, PNG:Make, PNG:Model, PNG:create-date, PNG:exif",,"Possible Base64: EXIF:Copyright, PNG:Copyright",5,+5: Readable Base64 candidate found
